@@ -3,9 +3,9 @@ This is a real project for the client USA Hockey, which required a redesign of t
 
 Additionally, many users were older and needed larger font sizes and better color contrast for improved readability.
 
-Here, I present the layouts I delivered, which are fully responsive from desktop to mobile.
+Here, I share the templates I delivered the dev team to implement, they are fully responsive from desktop to mobile.
 
-
+## See online
 You can see the prototype live here:
 https://jobadsayas.com/demos/usa-hockey-prototype/
 
