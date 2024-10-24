@@ -9,6 +9,6 @@ Here, I present the layouts I delivered, which are fully responsive from desktop
 You can see the prototype live here:
 https://jobadsayas.com/demos/usa-hockey-prototype/
 
-##Technology
+## Technologies
 - HTML
 - CSS
